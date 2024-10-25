@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on "Login_Example" project<br>I'm looking to collaborate on any project with java/spring boot in it<br>I'm currently learning HTML/CSS/JavaScript
+🔭I'm currently working on "Login_Example" project<br>👀I'm looking to collaborate on any project with java/spring boot in it<br>🎓I'm currently learning HTML/CSS/JavaScript
 
 
 ## 🌐 Socials:
